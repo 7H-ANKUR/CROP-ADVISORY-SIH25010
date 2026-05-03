@@ -3,7 +3,7 @@
 **AI-powered Smart Crop Advisory System** for small & marginal farmers.  
 Built for **Smart India Hackathon 2025** (Problem Statement ID: SIH25010).
 
-> 🚀 **Live Demo**: [fasal-ai.vercel.app](https://fasal-ai.vercel.app)
+> 🚀 **Live Demo**: [fasalai.app](https://fasalai.app)
 
 ---
 
